@@ -5,6 +5,7 @@
 [![CodeQL](https://github.com/JipBoesenkool/xstl/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/JipBoesenkool/xstl/actions/workflows/codeql-analysis.yml)
 
 ## About xstl
+Trigger codecov with token
 
 ## TODO:
 - [ ] https://github.com/catchorg/Catch2/blob/devel/docs/tutorial.md
