@@ -8,15 +8,10 @@
 Trigger codecov with token
 
 ## TODO:
+- [ ] Extract webassembly build with custom examples (this was just added, so give it a few days)
+- [ ] Simplify sanitizers/cppcheck
+- [ ] Go over the test matrix to minimize runtime on private repos
 - [ ] https://github.com/catchorg/Catch2/blob/devel/docs/tutorial.md
-- [ ] https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md
-- [ ] Test catch2 benchmark
-- [ ] Test emscripten
-
-### Library
-- [ ] XString, Trivially copyable for components, string_view
-- [ ] XDynamicArray, Trivially copyable for components
-- [ ] Memory, see private notes
 
 ## WebAssembly Demo
 
